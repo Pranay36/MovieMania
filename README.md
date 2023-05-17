@@ -24,19 +24,23 @@
 
 
 ## HOME Page
-![home](https://github.com/Pranay36/MovieMania/blob/main/assets/98728524/40bbf96e-b87b-46b0-8fa1-3a4497659011.png)
+![home](https://github.com/Pranay36/MovieMania/assets/98728524/40bbf96e-b87b-46b0-8fa1-3a4497659011)
+
 
 ## Trending Page
-![trending](https://github.com/Pranay36/MovieMania/blob/main/assets/98728524/6c360b87-b667-40fe-80d2-067e21f8a692.png)
+![trending](https://github.com/Pranay36/MovieMania/assets/98728524/6c360b87-b667-40fe-80d2-067e21f8a692)
+
 
 ## Top-Rated Page
-![top-rated](https://github.com/Pranay36/MovieMania/blob/main/assets/98728524/97ba7ac9-105d-4c39-b38d-2ec548a564c5.png)
+![top-rated](https://github.com/Pranay36/MovieMania/assets/98728524/97ba7ac9-105d-4c39-b38d-2ec548a564c5)
+
 
 ## About page
-![about](https://github.com/Pranay36/MovieMania/blob/main/assets/98728524/45c754ec-e625-496d-a78e-cccffe0c5b41.png)
+![about](https://github.com/Pranay36/MovieMania/assets/98728524/45c754ec-e625-496d-a78e-cccffe0c5b41)
+
 
 ## movie page
-![image](https://github.com/Pranay36/MovieMania/blob/main/assets/98728524/daf8cca0-a510-48ad-a6b4-a4db13d795ff.png)
+![image](https://github.com/Pranay36/MovieMania/assets/98728524/daf8cca0-a510-48ad-a6b4-a4db13d795ff)
 
 
 
